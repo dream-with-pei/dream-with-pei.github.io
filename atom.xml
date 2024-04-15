@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>甜中微酸</title>
+  <title>遠花火`BLOG</title>
   
-  <subtitle>求之不得，寤寐思服。悠哉悠哉，辗转反侧。</subtitle>
+  <subtitle>生活明朗,万物可爱.</subtitle>
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
@@ -10,7 +10,7 @@
   <id>http://example.com/</id>
   
   <author>
-    <name>叶小闪</name>
+    <name>遠花火</name>
     
   </author>
   
